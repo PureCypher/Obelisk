@@ -1,8 +1,3 @@
----
-
-mindmap-plugin: basic
-
----
 
 # Index
 
