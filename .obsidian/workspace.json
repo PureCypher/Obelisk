@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "acbeb29511e73c33",
+        "id": "beaf006d1ceddfd9",
         "type": "tabs",
         "children": [
           {
-            "id": "7372d76c841a5cbd",
+            "id": "4f58e523e301f284",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -164,9 +164,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "7372d76c841a5cbd",
+  "active": "4f58e523e301f284",
   "lastOpenFiles": [
     "wireshark/Index.md",
+    "wireshark/Documentation/Wireshark User’s Guide Version 4.3.0 - Wireshark User's Guide.pdf",
+    "wireshark/Documentation",
+    "wireshark/untitled folder",
     "wireshark/script",
     "wireshark"
   ]
