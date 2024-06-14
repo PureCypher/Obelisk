@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "beaf006d1ceddfd9",
+        "id": "1009010208a057b2",
         "type": "tabs",
         "children": [
           {
-            "id": "4f58e523e301f284",
+            "id": "dcb028dfbbf1bd18",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "888c98965826f5b6",
@@ -146,7 +145,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -164,9 +164,15 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "4f58e523e301f284",
+  "active": "dcb028dfbbf1bd18",
   "lastOpenFiles": [
+    "wireshark/script/Example.md",
     "wireshark/Index.md",
+    "wireshark/script/Untitled",
+    "wireshark/Capture Filter.md",
+    "wireshark/Additional tools.md",
+    "wireshark/Tshark.md",
+    "wireshark/User Guide.md",
     "wireshark/Documentation/Wireshark User’s Guide Version 4.3.0 - Wireshark User's Guide.pdf",
     "wireshark/Documentation",
     "wireshark/untitled folder",
