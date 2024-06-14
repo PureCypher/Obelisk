@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "wireshark/Index.md",
+                "file": "wireshark/script/Example.md",
                 "mode": "source",
                 "source": false
               }
@@ -101,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "wireshark/Index.md",
+                "file": "wireshark/script/Example.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "wireshark/Index.md",
+                "file": "wireshark/script/Example.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "wireshark/Index.md"
+                "file": "wireshark/script/Example.md"
               }
             }
           }
@@ -166,12 +166,12 @@
   },
   "active": "dcb028dfbbf1bd18",
   "lastOpenFiles": [
-    "wireshark/script/Example.md",
     "wireshark/Index.md",
+    "wireshark/script/Example.md",
+    "wireshark/Tshark.md",
     "wireshark/script/Untitled",
     "wireshark/Capture Filter.md",
     "wireshark/Additional tools.md",
-    "wireshark/Tshark.md",
     "wireshark/User Guide.md",
     "wireshark/Documentation/Wireshark User’s Guide Version 4.3.0 - Wireshark User's Guide.pdf",
     "wireshark/Documentation",
